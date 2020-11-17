@@ -1,7 +1,5 @@
 When a push button is pressed, a LED will be light up.
-
 After the push button is released, the LED will be off.
-
 The circuit uses pull down resistor to make the LED always in LOW condition.
 
 
