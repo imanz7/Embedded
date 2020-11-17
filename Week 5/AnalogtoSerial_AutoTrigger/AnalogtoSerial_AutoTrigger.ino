@@ -4,7 +4,7 @@
       - The clock speed of the microcontroller is 16MHz
       - The desired clock speed of ADC is 125 kHz.
       - Use AVCC as analog reference.
-      - On-demand mode
+      - Auto trigger mode
  */
 volatile unsigned char *admux = 0x7C;
 volatile unsigned char *adcsra = 0x7A;
