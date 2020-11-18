@@ -7,3 +7,6 @@ The circuit is shown below.
 
 
 ![Tinkercad](https://user-images.githubusercontent.com/73816908/99400107-8bbcd500-2921-11eb-98be-bbe965ac0b3a.png)
+
+Video:
+https://github.com/imanz7/Embedded_System_Design/blob/main/Week%204/SISO_PullUp/Video.mp4
