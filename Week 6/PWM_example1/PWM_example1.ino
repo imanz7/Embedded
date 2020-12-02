@@ -15,8 +15,6 @@ void setup()
     *ocr0b = 127;             //set duty cycle 50% of 255 - lower duty cycle, dimmer the LED
     *tccr0a = 0b00100011;     //normal output, fast PWM
     *tccr0b = 0b00000011;     //pre-scaler value of 64
-
-    //theoretical frequency generated: 16MHz/64 = 250kHz
 }
 
 void loop()
