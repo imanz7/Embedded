@@ -1,4 +1,4 @@
-The simulation of the video can be view here:
+The simulation of the project can be view here:
 
 (Updated) https://youtu.be/mKxJ7sNiyK0
 
